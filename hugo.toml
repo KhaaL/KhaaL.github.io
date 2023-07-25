@@ -41,45 +41,16 @@ style = "github-dark"
   tag = "tags"
   author = "authors"
 
-# Social links
-[[params.social]]
-  name = "Github"
-  icon = "fa fa-github fa-2x"
-  weight = 1
-  url = "https://github.com/johndoe/"
-[[params.social]]
-  name = "Gitlab"
-  icon = "fa fa-linkedin fa-2x"
-  weight = 2
-  url = "https://gitlab.com/johndoe/"
-[[params.social]]
-  name = "Twitter"
-  icon = "fa fa-mastodon fa-2x"
-  weight = 3
-  url = "https://twitter.com/johndoe/"
-
-[[params.social]]
-  name = "e-mail"
-  icon = "fa fa-envelope fa-2x"
-  weight = 4
-  url = "https://twitter.zom/johndoe/"
-  
-[[params.social]]
-  name = "PGP"
-  icon = "fa fa-lock fa-2x"
-  weight = 5
-  url = "https://twitter.zom/johndoe/"
-  
 
 # Menu links
 [[menu.main]]
   name = "Blog"
   weight = 1
-  url  = "posts/"
+  url  = "/posts"
 [[menu.main]]
   name = "About"
   weight = 2
-  url = "about/"
+  url = "/about"
   
 [[menu.main]]
   name = "Contact"
