@@ -9,7 +9,7 @@ tags: ['technology']
 
 ***
 
-> _The site and blog has moved to use Hugo and Github pages._
+## This site and blog has moved to use Hugo and Github pages.
 
 ***
 
@@ -26,11 +26,11 @@ One can question why I chose Github pages instead of sticking with my VPS. The a
 
 If Github would change to a service that I cannot get behind - I can always make use of my experience of running my own webserver and move my webpage back there. In the meantime, I don't need to worry about more that 300 bogus attempts per day to find exploits on my server.
 
-The only thing I'm missing, is a way to auto-publish to a pod on a Gemini pod. But I guess in the meantime, there's always [midnight.pub/](midnight.pub/)
+The only thing I'm missing, is a way to auto-publish to a pod on a Gemini pod. But I guess in the meantime, there's always [midnight.pub](https://midnight.pub/)
 
-If you're curious about Hugo, check out their excellent quickstart guide here: 
-- https://gohugo.io/getting-started/quick-start/
+***
 
-You can also check out 
-Luke Smith's excellent youtube video on setting up hugo:
-- https://invidious.nerdvpn.de/watch?v=ZFL09qhKi5I
+_If you're curious about Hugo, check out their excellent quickstart guide [here](https://gohugo.io/getting-started/quick-start/)_
+
+_You can also check out 
+Luke Smith's excellent youtube video on setting up hugo [here](https://invidious.nerdvpn.de/watch?v=ZFL09qhKi5I)_
