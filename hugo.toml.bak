@@ -1,0 +1,73 @@
+#baseURL = 'http://khalid.se/'
+baseURL = ''
+languageCode = 'en-us'
+title = 'khalid.se'
+#theme = 'lugo'
+theme = 'archie'
+
+### Archie defaults ###
+
+# Code Highlight
+pygmentsstyle = "solarized-dark"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+summaryLength = 1
+
+[params]
+	subtitle = "Welcome to my home on the internet."
+	mode="auto" # color-mode → light,dark,toggle or auto
+	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
+	# mathjax = true # enable MathJax support
+	# katex = true # enable KaTeX support
+
+
+	#Specify favicon (icons/i.png maps to static/icons/i.png). No favicon if not defined.
+	# 🟥favicon = "icons/myicon.png"
+	
+	
+# Enable tags.
+[taxonomies]
+   tag = "tags"
+   
+# Social Tags
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/KhaaL/"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/khalidra/"
+
+[[params.social]]
+name = "Mastodon"
+icon = "radio"
+url = "https://swecyb.com/@khalid/"
+
+[[params.social]]
+name = "email"
+icon = "mail"
+url = "mailto:khalid-se.br9ty[at]slmail.me"
+
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Blog"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About me"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Contact"
+url = "/contact"
+weight = 4
