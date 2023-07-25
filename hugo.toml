@@ -1,14 +1,11 @@
 #baseurl = "http://www.khalid.se"
 baseurl="https://khaal.github.io"
 title = "khalid.se"
-languagecode = "en"
-defaultcontentlanguage = "en"
-paginate = 20
-
-#theme = "hugo-theme-nostyleplease"
 #theme = "ananke"
 theme = "hugo-coder"
-
+languagecode = "en"
+defaultcontentlanguage = "en"
+paginate = 10
 
 [markup.highlight]
 style = "github-dark"
