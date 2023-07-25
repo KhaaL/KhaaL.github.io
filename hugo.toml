@@ -3,7 +3,7 @@ baseurl="https://khaal.github.io"
 title = "khalid.se"
 languagecode = "en"
 defaultcontentlanguage = "en"
-paginate = 10
+paginate = 20
 
 #theme = "hugo-theme-nostyleplease"
 #theme = "ananke"
