@@ -1,4 +1,5 @@
-baseurl = "http://www.khalid.se"
+#baseurl = "http://www.khalid.se"
+baseurl = "https://khaal.github.io/"
 title = "khalid.se"
 
 
