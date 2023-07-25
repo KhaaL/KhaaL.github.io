@@ -4,9 +4,9 @@ title = "khalid.se"
 
 
 #theme = "hermit-V2"
-#theme = "hugo-theme-nostyleplease"
+theme = "hugo-theme-nostyleplease"
 #theme = "ananke"
-theme = "hugo-coder"
+#theme = "hugo-coder"
 
 languagecode = "en"
 defaultcontentlanguage = "en"
