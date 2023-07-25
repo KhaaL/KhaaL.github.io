@@ -1,30 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-	<title>My New Hugo Site</title>
-	<link>http://khalid.se/categories/</link>
-	<description>Recent content in Categories on My New Hugo Site</description>
-	<generator>Hugo -- gohugo.io</generator>
-	<language>en-us</language>
-    
-        <atom:link href="http://khalid.se/categories/index.xml" rel="self" type="application/rss+xml" />
-	
-	
-	<item>
-		<title>khalid.se</title>
-		<link>http://khalid.se/</link>
-		<pubDate>Wed, 19 Jul 2023 19:34:34 +0200</pubDate>
-		
-		<guid>http://khalid.se/</guid>
-		<description>&lt;h1 id=&#34;welcome-to-my-personal-home-on-the-web&#34;&gt;Welcome to my personal home on the web.&lt;/h1&gt;
-&lt;p&gt;I am a IT and security manager at an international NGO in Sweden, and this is where I publish my presentations of intrest, my contact information and do some crazy stuff behind the scenes.&lt;/p&gt;
-&lt;h2 id=&#34;work-of-interest&#34;&gt;Work of interest&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;👁️‍🗨️ Surveillance based ads, and their impact on society (in Swedish).&lt;/li&gt;
-&lt;li&gt;✊🏽 Cybersecurity for activists, a seminar covering Cybersecurity basics.&lt;/li&gt;
-&lt;li&gt;🏳️‍🌈 Oppressed Pride , master thesis in Social Work.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-	</item>
-	
-	</channel>
+    <title>Categories on khalid.se</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on khalid.se</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
 </rss>

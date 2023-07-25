@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on khalid.se</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on khalid.se</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 21 Jul 2023 00:00:00 +0200</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello hugo</title>
+      <link>/posts/2023-07-21_hello_hugo/</link>
+      <pubDate>Fri, 21 Jul 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/posts/2023-07-21_hello_hugo/</guid>
+      <description>This site and blog has moved to use Hugo and Github pages. When I registered my domain khalid.se, I was aiming to even have it as a itty.bitty site and be truly serverless. However, I wanted to take on the challenge to host the whole infrastructure by my self to get a real feeling of the challenges of setting up a server, from the OS to the actual HTML files.</description>
+    </item>
+    
+    <item>
+      <title>Are endusers really the weakest link?</title>
+      <link>/posts/2023-02-05_weakest_link/</link>
+      <pubDate>Sun, 05 Feb 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/posts/2023-02-05_weakest_link/</guid>
+      <description>I&amp;rsquo;ve recently started a cybersecurity course in university and got very engaged by an assignment where I was to make a list on how to reduce the human factor when dealing with cyber security, and wrote these thoughts.
+I’d like to delve deeper into an idea within cybersecurity professionals that “a chain is only as strong as its weakest link” that often is pointingat the end-users as that weakest link (1).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>personal on khalid.se</title>
+    <link>/tags/personal/</link>
+    <description>Recent content in personal on khalid.se</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 19 Jul 2023 19:34:34 +0200</lastBuildDate><atom:link href="/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>/about/</link>
+      <pubDate>Wed, 19 Jul 2023 19:34:34 +0200</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I am a IT and security manager at an international NGO in Sweden, and this is where I publish my presentations of intrest, my contact information and do some crazy stuff behind the scenes.
+What I like doing Working out Socializing Hiking and being in nature Advocate for digital privacy Solving old and new problems in new ways What I&amp;rsquo;m doing now Some of my projects are listed here, this section is updated quaterly</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Wed, 19 Jul 2023 19:34:34 +0200</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>You are welcome to reach out to me on the following links:
+🧑🏽‍💻 Github 🧑🏽‍💼 LinkedIn 🐘 Mastodon 📧 khalid-se.br9ty[at]slmail.me 🔐 PGP public key Work of interest 👁️‍🗨️ Surveillance based ads, and their impact on society (in Swedish) link. ✊🏽 Cybersecurity for activists, a seminar covering Cybersecurity basics. link 🏳️‍🌈 Oppressed Pride , master thesis in Social Work. link </description>
+    </item>
+    
+  </channel>
+</rss>

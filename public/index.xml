@@ -1,30 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-	<title>My New Hugo Site</title>
-	<link>http://khalid.se/</link>
-	<description>Recent content on My New Hugo Site</description>
-	<generator>Hugo -- gohugo.io</generator>
-	<language>en-us</language>
+    <title>khalid.se</title>
+    <link>/</link>
+    <description>Recent content on khalid.se</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 21 Jul 2023 00:00:00 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello hugo</title>
+      <link>/posts/2023-07-21_hello_hugo/</link>
+      <pubDate>Fri, 21 Jul 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/posts/2023-07-21_hello_hugo/</guid>
+      <description>This site and blog has moved to use Hugo and Github pages. When I registered my domain khalid.se, I was aiming to even have it as a itty.bitty site and be truly serverless. However, I wanted to take on the challenge to host the whole infrastructure by my self to get a real feeling of the challenges of setting up a server, from the OS to the actual HTML files.</description>
+    </item>
     
-        <atom:link href="http://khalid.se/index.xml" rel="self" type="application/rss+xml" />
-	
-	
-	<item>
-		<title>khalid.se</title>
-		<link>http://khalid.se/</link>
-		<pubDate>Wed, 19 Jul 2023 19:34:34 +0200</pubDate>
-		
-		<guid>http://khalid.se/</guid>
-		<description>&lt;h1 id=&#34;welcome-to-my-personal-home-on-the-web&#34;&gt;Welcome to my personal home on the web.&lt;/h1&gt;
-&lt;p&gt;I am a IT and security manager at an international NGO in Sweden, and this is where I publish my presentations of intrest, my contact information and do some crazy stuff behind the scenes.&lt;/p&gt;
-&lt;h2 id=&#34;work-of-interest&#34;&gt;Work of interest&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;👁️‍🗨️ Surveillance based ads, and their impact on society (in Swedish).&lt;/li&gt;
-&lt;li&gt;✊🏽 Cybersecurity for activists, a seminar covering Cybersecurity basics.&lt;/li&gt;
-&lt;li&gt;🏳️‍🌈 Oppressed Pride , master thesis in Social Work.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-	</item>
-	
-	</channel>
+    <item>
+      <title>About me</title>
+      <link>/about/</link>
+      <pubDate>Wed, 19 Jul 2023 19:34:34 +0200</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I am a IT and security manager at an international NGO in Sweden, and this is where I publish my presentations of intrest, my contact information and do some crazy stuff behind the scenes.
+What I like doing Working out Socializing Hiking and being in nature Advocate for digital privacy Solving old and new problems in new ways What I&amp;rsquo;m doing now Some of my projects are listed here, this section is updated quaterly</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Wed, 19 Jul 2023 19:34:34 +0200</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>You are welcome to reach out to me on the following links:
+🧑🏽‍💻 Github 🧑🏽‍💼 LinkedIn 🐘 Mastodon 📧 khalid-se.br9ty[at]slmail.me 🔐 PGP public key Work of interest 👁️‍🗨️ Surveillance based ads, and their impact on society (in Swedish) link. ✊🏽 Cybersecurity for activists, a seminar covering Cybersecurity basics. link 🏳️‍🌈 Oppressed Pride , master thesis in Social Work. link </description>
+    </item>
+    
+    <item>
+      <title>Are endusers really the weakest link?</title>
+      <link>/posts/2023-02-05_weakest_link/</link>
+      <pubDate>Sun, 05 Feb 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/posts/2023-02-05_weakest_link/</guid>
+      <description>I&amp;rsquo;ve recently started a cybersecurity course in university and got very engaged by an assignment where I was to make a list on how to reduce the human factor when dealing with cyber security, and wrote these thoughts.
+I’d like to delve deeper into an idea within cybersecurity professionals that “a chain is only as strong as its weakest link” that often is pointingat the end-users as that weakest link (1).</description>
+    </item>
+    
+    <item>
+      <title>PGP key</title>
+      <link>/publickey.khalid-se.br9ty_at_slmail.me.asc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publickey.khalid-se.br9ty_at_slmail.me.asc/</guid>
+      <description>-----BEGIN PGP PUBLIC KEY BLOCK----- xsBNBF8d8T0BCACdnfjuvlh3Eq2Bx/NRc3V4KStu4LLbz4hBh99/zsGhNol8 c2jhqhLdDGjvUPC162TNkz0b13oPrPwwanaipnZVJ0it2cj55GuuUUvZdgju Q4tU9C93T4cdRYSQbHpDtV7/CKH9rk9fl+rwgqn3BTOtJeyRSVK/XKT/FrtO uFkXongycbGNJiox3BZ/Lx2e7cY+8cJAGre6sSluMTtaAN1ti+32fhSeGmE7 YOsWkOqZe1GF/s2tA9vD1R6X8jhsmmyrb8cS4kyLmsR5cc+hkDotBvy16zmt IPFY6K0oC2bNdAE5iH5HG7H32n7bjbL5NGFQpIOyFiHnnCf0wNt2qq47ABEB AAHNKWtoYWxpZC5yYXNoaWRAcG0ubWUgPGtoYWxpZC5yYXNoaWRAcG0ubWU+ wsB2BBABCAAgBQJfHfE9BgsJBwgDAgQVCAoCBBYCAQACGQECGwMCHgEACgkQ KxOeFdCz4BJtaQf/Y0wnGFDk1qFOK2BOg763nGB3Jxv8QjrmpFf05/by0o90 8dNUIkKMkwEe/20DzZe42Dx4syX2IYos7hUKlbVwT0msRqg7E87mQ5bTt58j +SbIBYf7soWaX4WaOFbjRGssW+9ysWVP13Rh/VR7qb/lfpqdISz0H7n2ba0e 6MhYbzTDf49YA8MU2GEX9VtYi2ZnoZBWFmR1hjJ/JhmOzEC3dNuS7eS/wqAt 3fwGu2zYh4XOtgAr4QLSPjHd317voSyEiqEwM3m+97qijad0B/Cm+bRoq7sC VDbwG/Fx+swPzgXRYVd2SJ61nIJSDtO/Cqxx4yNY3uUIUr84f+VxhCXn/s7A TQRfHfE9AQgA0/kK2MZSgEZoWTDyKhnhZcFEu8QReWTujf8krHM4ouwFzj4m K2tYMxib4AUHt2v90+tOXh+213JzPXdDtRpYRg/tZK9tGKr0eph2+v767vUW zTPj0djHv17jRGCr5dOmlvOb3gG+TM3Od53fml9Iu8XMq4cixH2Vmf9gnA7l BQI4/q5wm0X2pV8aoWY8316E9whA5ds+zyKhCI0uK4wB1ciyBJTCtYh2sXoJ rqWYFgfqm3jCyI5CJzc8sEr/1pVoF8VbpIL0iQoxf4dmxx1ggSUnZFBjmwaG AGkRxpmoOlREn6taUbM9+K369Sn9zsLOxs0AYk47PmwLCkHD8S51PQARAQAB wsBfBBgBCAAJBQJfHfE9AhsMAAoJECsTnhXQs+ASd00IAIskYLhMAp04KIH1 Fs/Hp0uMvBoQ3mlcQGnuIxh4xUFF45vikKx2Qp9wm4KHUbv5PoxUdrj8CGr5 RXQS2bnJo4j4tkgGb/RZelm34b1GbGllJB/EsfFlKkOn3y/XFNwcGqwH4WXJ SozYyhkbsvDHhva1qws6Uj3rEgixAiQyA7tCeXRHnB3k3fmplcfWTRsm2N2v unZ1IHTJozCBPjkofHsFHzXRf8QdYmdQEqfQkjE9ZZxK42tEF6bOY2KSxapv PFP6p2ZSF+dEUf0i3VgrTf3Gsaz1B61aNtBQ+yiGz4+flaO0nGtn++If8llw 096t/MU2wuCtCbQlEvmhzBj+rmY= =mGYG -----END PGP PUBLIC KEY BLOCK----- </description>
+    </item>
+    
+  </channel>
 </rss>
