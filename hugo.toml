@@ -16,10 +16,7 @@ style = "github-dark"
   description = "Khalid's personal website"
   keywords = "blog,personal,NGO"
   avatarurl = "images/selfie_dither.png"
-
-
-#  faviconSVG = "/img/favicon.svg"
-#  favicon_32 = "/img/favicon-32x32.png"
+  favicon_32 = "images/favicon-32x32.png"
 #  favicon_16 = "/img/favicon-16x16.png"
 
 
