@@ -19,7 +19,7 @@ You are welcome to reach out to me on the following links:
 ---
 ## Work of interest
 
- - 👁️‍🗨️ Surveillance based ads, and their impact on society (in Swedish) [link](https://github.com/KhaaL/Presentations/wiki/%C3%96vervakingsbaserad-reklam-(swe)).
+ - 👁️‍🗨️ Surveillance based ads, and their impact on society (Handouts, in Swedish) [link](https://github.com/KhaaL/Presentations/wiki/%C3%96vervakingsbaserad-reklam-(swe)).
  - ✊🏽 Cybersecurity for activists, a seminar covering Cybersecurity basics. [link](https://www.youtube.com/watch?v=03fgaYKewHw)
  - 🏳️‍🌈 Oppressed Pride , master thesis in Social Work. [link](https://gupea.ub.gu.se/handle/2077/33151)
 
