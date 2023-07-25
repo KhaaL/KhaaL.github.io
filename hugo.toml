@@ -1,23 +1,20 @@
 #baseurl = "http://www.khalid.se"
 baseurl="https://khaal.github.io"
 title = "khalid.se"
+languagecode = "en"
+defaultcontentlanguage = "en"
+paginate = 10
 
-
-#theme = "hermit-V2"
 #theme = "hugo-theme-nostyleplease"
 #theme = "ananke"
 theme = "hugo-coder"
 
-languagecode = "en"
-defaultcontentlanguage = "en"
-
-paginate = 20
 
 [markup.highlight]
 style = "github-dark"
 
 [params]
-  author = "Khalid"
+  author = "Khalid R."
   info = "Welcome to my personal spot on the web."
   description = "Khalid's personal website"
   keywords = "blog,personal,NGO"
@@ -37,6 +34,25 @@ style = "github-dark"
   # customSCSS = ["scss/custom.scss"]
   # customJS = ["js/custom.js"]
 
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/khaal/"
+
+[[params.social]]
+  name = "Mastodon"
+  icon = "fa fa-mastodon fa-2x"
+  weight = 2
+  url = "https://swecyb.com/@khalid"
+  
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 3
+  url = "https://www.linkedin.com/in/khalidra/"
+  
+  
 [taxonomies]
   category = "categories"
   series = "series"
