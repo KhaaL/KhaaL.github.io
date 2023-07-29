@@ -11,7 +11,8 @@ You are welcome to reach out to me on the following links:
 - 🧑🏽‍💻 [Github](https://github.com/KhaaL/)
 - 🧑🏽‍💼 [LinkedIn](https://www.linkedin.com/in/khalidra/)
 - 🐘 [Mastodon](https://swecyb.com/@khalid/)
-- 📧 khalid-se.br9ty[at]slmail.me
+- 💬 Matrix: @khalid:data.haus
+- 📧 Email: khalid-se.br9ty[at]slmail.me
 - 🔐 [PGP public key](../publickey.khalid-se.br9ty_at_slmail.me.asc)
 
 
