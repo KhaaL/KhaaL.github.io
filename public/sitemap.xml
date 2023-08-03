@@ -2,16 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://khaal.github.io/posts/2023-07-21_hello_hugo/</loc>
-    <lastmod>2023-07-21T00:00:00+02:00</lastmod>
+    <loc>https://khaal.github.io/tags/cybersecurity/</loc>
+    <lastmod>2023-08-03T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://khaal.github.io/posts/2023-08-03_cybersecurity_for_activists/</loc>
+    <lastmod>2023-08-03T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://khaal.github.io/</loc>
-    <lastmod>2023-07-21T00:00:00+02:00</lastmod>
+    <lastmod>2023-08-03T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://khaal.github.io/posts/</loc>
-    <lastmod>2023-07-21T00:00:00+02:00</lastmod>
+    <lastmod>2023-08-03T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://khaal.github.io/tags/</loc>
+    <lastmod>2023-08-03T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://khaal.github.io/posts/2023-07-21_hello_hugo/</loc>
     <lastmod>2023-07-21T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://khaal.github.io/tags/technology/</loc>
@@ -27,9 +33,6 @@
     <lastmod>2023-07-19T19:34:34+02:00</lastmod>
   </url><url>
     <loc>https://khaal.github.io/posts/2023-02-05_weakest_link/</loc>
-    <lastmod>2023-02-05T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://khaal.github.io/tags/cybersecurity/</loc>
     <lastmod>2023-02-05T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://khaal.github.io/authors/</loc>
