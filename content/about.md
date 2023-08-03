@@ -6,7 +6,7 @@ type: "page"
 tags: ['personal']
 ---
 
-[I am](../images/selfie_dither.png) a IT and security manager at an international NGO in Sweden, and this is where I publish my presentations of intrest, my contact information and do some crazy stuff behind the scenes.
+[I am](../images/selfie_dither.png) a IT and security manager at an international NGO in Sweden, and this is where I publish my presentations of intrest, my contact information and do some crazy experimentation behind the scenes.
 
 ## What I like doing
 - Working out
