@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>cybersecurity on khalid.se</title>
+    <link>https://khalid.se/tags/cybersecurity/</link>
+    <description>Recent content in cybersecurity on khalid.se</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 24 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://khalid.se/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Upcoming Speaker Engagements</title>
+      <link>https://khalid.se/posts/2024-01-24_speaker_engagements/</link>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://khalid.se/posts/2024-01-24_speaker_engagements/</guid>
+      <description>During this year&amp;rsquo;s conference, the Fundraising Forum, I will be delivering a talk on cybersecurity for civil society. With the increasing threat of cyber attacks, it is now more important than ever to prioritize cybersecurity and reduce the risks and vulnerabilities for our organizations, ensuring that human rights work never comes to a halt.
+Feel free to drop by Münchenbryggeriet in Stockholm on March 21-22 to listen or network with others in the sector.</description>
+    </item>
+    <item>
+      <title>A few hours of running a honeypot</title>
+      <link>https://khalid.se/posts/2023-09-06_honeypot/</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0200</pubDate>
+      <guid>https://khalid.se/posts/2023-09-06_honeypot/</guid>
+      <description>I often come across various communities that strongly encourage people to self-host for a variety of reasons: in the interest of data sovereignty, to break free from big tech, or simply because it&amp;rsquo;s &amp;ldquo;FUN&amp;rdquo;. However, I believe that many of these encouragements do not take into account the risks associated with running your infrastructure, nor do they take into account the competence required to correctly configure specific products, systems, applications so that they can provide a secure solution.</description>
+    </item>
+    <item>
+      <title>Cybersecurity basics, 2023 edition</title>
+      <link>https://khalid.se/posts/2023-08-03_cybersecurity_for_activists/</link>
+      <pubDate>Thu, 03 Aug 2023 00:00:00 +0200</pubDate>
+      <guid>https://khalid.se/posts/2023-08-03_cybersecurity_for_activists/</guid>
+      <description>Picture from the seminar at Stockholm Pride House.
+Today, I had the pleasure of discussing cybersecurity with 30 enthusiastic attendees at Stockholm Pride House who defied the rain and the risk of getting wet.
+I&amp;rsquo;ve conducted this seminar since 2020. At the height of the pandemy, I noticed a sharp rise in the need for cybersecurity as more and more individuals had to communicate and collaborate digitally due to the pandemic.</description>
+    </item>
+    <item>
+      <title>Are endusers really the weakest link?</title>
+      <link>https://khalid.se/posts/2023-02-05_weakest_link/</link>
+      <pubDate>Sun, 05 Feb 2023 00:00:00 +0200</pubDate>
+      <guid>https://khalid.se/posts/2023-02-05_weakest_link/</guid>
+      <description>I&amp;rsquo;ve recently started a cybersecurity course in university and got very engaged by an assignment where I was to make a list on how to reduce the human factor when dealing with cyber security, and wrote these thoughts.
+I’d like to delve deeper into an idea within cybersecurity professionals that “a chain is only as strong as its weakest link” that often is pointingat the end-users as that weakest link (1).</description>
+    </item>
+  </channel>
+</rss>

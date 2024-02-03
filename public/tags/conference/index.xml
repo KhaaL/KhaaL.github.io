@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>conference on khalid.se</title>
+    <link>https://khalid.se/tags/conference/</link>
+    <description>Recent content in conference on khalid.se</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 24 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://khalid.se/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Upcoming Speaker Engagements</title>
+      <link>https://khalid.se/posts/2024-01-24_speaker_engagements/</link>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://khalid.se/posts/2024-01-24_speaker_engagements/</guid>
+      <description>During this year&amp;rsquo;s conference, the Fundraising Forum, I will be delivering a talk on cybersecurity for civil society. With the increasing threat of cyber attacks, it is now more important than ever to prioritize cybersecurity and reduce the risks and vulnerabilities for our organizations, ensuring that human rights work never comes to a halt.
+Feel free to drop by Münchenbryggeriet in Stockholm on March 21-22 to listen or network with others in the sector.</description>
+    </item>
+  </channel>
+</rss>
