@@ -19,17 +19,17 @@ languages:
       category: categories
       tag: tags
       series: series
-    menu:
-      main:
-        - name: Blog
-          url: posts/
-          weight: 5
-        - name: Tags
-          url: tags/
-          weight: 10
-        - name: About me
-          url: about/
-          weight: 15
+#    menu:
+#      main:
+#        - name: Blog
+#          url: posts/
+#          weight: 5
+#        - name: Tags
+#          url: tags/
+#          weight: 10
+#        - name: About me
+#          url: about/
+#          weight: 15
 
 params:
   profileMode:
@@ -52,16 +52,16 @@ params:
      - # Welcome to my virtual spot
      
      - ### gravida nec est in
-     
+
      -  **Lorem ipsum** dolor sit amet, _consectetur_ adipiscing elit. 
-     
+
      - Donec semper ultrices lorem et iaculis. Nulla ipsum lorem
-         
+
      - > Etiam et purus vitae ante blandit aliquam vel vitae nisi. Quisque sed neque nec dui pharetra egestas. Praesent eu tempus tortor. Quisque auctor ultrices nisl ut rutrum.
-     
+
      - Duis neque urna, consectetur at metus non, [vehicula mollis nisi](sr.se). 
-     
-     
+
+
       - Feel free to follow me or contact me:
 
   socialIcons:
