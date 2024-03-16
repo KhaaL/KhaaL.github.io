@@ -80,9 +80,9 @@ params:
     - name: Email
       title: Email me (yes, this will reach my inbox!)
       url: "mailto:khalid-se.pushing150@aleeas.com"
-    - name: RSS
-      title: Subscribe on new blog posts
-      url: "https://khalid.se/posts/index.xml"
+#    - name: RSS
+#      title: Subscribe on new blog posts
+#      url: "https://khalid.se/posts/index.xml"
    
   assets:
     disableHLJS: true  
