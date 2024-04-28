@@ -36,7 +36,7 @@ params:
     enabled: true
     title: Welcome to my virtual spot. 
     imageUrl: "images/selfie_dither.png"
-    imageTitle: my image with dither filter
+    imageTitle: my selfie with dither filter
     imageWidth: 240
     imageHeight: 240
     buttons:
@@ -80,6 +80,9 @@ params:
     - name: Email
       title: Email me (yes, this will reach my inbox!)
       url: "mailto:khalid-se.pushing150@aleeas.com"
+    - name: Key
+      title: Keyoxide profile containing all my linked identities
+      url: "https://keyoxide.org/aspe:keyoxide.org:IV6Q45GW4ADLC3PSULPWGYJFOU"
 #    - name: RSS
 #      title: Subscribe on new blog posts
 #      url: "https://khalid.se/posts/index.xml"
