@@ -32,6 +32,8 @@ languages:
 #          weight: 15
 
 params:
+  defaultTheme: auto
+  disableThemeToggle: true
   profileMode:
     enabled: true
     title: Welcome to my virtual spot.
