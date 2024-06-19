@@ -34,7 +34,7 @@ languages:
 params:
   profileMode:
     enabled: true
-    title: Welcome to my virtual spot. 
+    title: Welcome to my virtual spot.
     imageUrl: "images/selfie_dither.png"
     imageTitle: my selfie with dither filter
     imageWidth: 240
@@ -48,9 +48,9 @@ params:
   homeInfoParams:
 #    Title: "Welcome to my virtual spot."
     Content: >
-     
+
      - # Welcome to my virtual spot
-     
+
      - ### gravida nec est in
 
      -  **Lorem ipsum** dolor sit amet, _consectetur_ adipiscing elit. 
@@ -86,17 +86,16 @@ params:
 #    - name: RSS
 #      title: Subscribe on new blog posts
 #      url: "https://khalid.se/posts/index.xml"
-   
+
   assets:
-    disableHLJS: true  
+    disableHLJS: true
     favicon: "/favicon.ico"
     favicon16x16: "/favicon-16x16.png"
     favicon32x32: "/favicon-32x32.png"
     apple_touch_icon: "/apple-touch-icon.png"
     safari_pinned_tab: "/safari-pinned-tab.svg"
- 
- 
- 
+
+
 
 privacy:
    vimeo:
