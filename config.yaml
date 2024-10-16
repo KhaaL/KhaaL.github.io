@@ -70,9 +70,9 @@ params:
     - name: github
       title: My Github profile
       url: "https://github.com/khaal"
-    - name: Matrix
-      title: Chat with me over matrix
-      url: "https://matrix.to/#/@khalle:matrix.org"
+#    - name: Matrix
+#      title: Chat with me over matrix
+#      url: "https://matrix.to/#/@khalle:matrix.org"
     - name: LinkedIn
       title: My LinkedIn profile
       url: "https://www.linkedin.com/in/khalidra/"
@@ -85,6 +85,11 @@ params:
     - name: Key
       title: Keyoxide profile containing all my linked identities
       url: "https://keyoxide.org/aspe:keyoxide.org:IV6Q45GW4ADLC3PSULPWGYJFOU"
+#    - name: other
+#      title: Other platforms
+#      url: "sr.se"
+# TEST
+
 #    - name: RSS
 #      title: Subscribe on new blog posts
 #      url: "https://khalid.se/posts/index.xml"
@@ -101,18 +106,18 @@ params:
 
 privacy:
    vimeo:
-     disabled: false
+     disabled: true
      simple: true
 
    twitter:
-     disabled: false
+     disabled: true
      enableDNT: true
      simple: true
 
    instagram:
-     disabled: false
+     disabled: true
      simple: true
 
    youtube:
-     disabled: false
+     disabled: true
      privacyEnhanced: true
