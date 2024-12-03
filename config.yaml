@@ -67,25 +67,29 @@ params:
       - Feel free to follow me or contact me:
 
   socialIcons:
+    - name: LinkedIn
+      title: My LinkedIn profile
+      url: "https://www.linkedin.com/in/khalidra/"
     - name: github
       title: My Github profile
       url: "https://github.com/khaal"
 #    - name: Matrix
 #      title: Chat with me over matrix
 #      url: "https://matrix.to/#/@khalle:matrix.org"
-    - name: LinkedIn
-      title: My LinkedIn profile
-      url: "https://www.linkedin.com/in/khalidra/"
     - name: Mastodon
       title: Follow me on Mastodon
       url: "https://mastodon.nu/@khalid"
+    - name: signal
+      title: Chat with me on Signal
+      url: "https://signal.me/#eu/RkqYrVwWfdXd1VFwKp5xFdxJ3avo2a2uWA3x7mG1e3u97YeVrSZNQ6T7Vziddfqo"
     - name: Email
       title: Email me (yes, this will reach my inbox!)
       url: "mailto:khalid-se.pushing150@aleeas.com"
-    - name: Key
-      title: Keyoxide profile containing all my linked identities
-      url: "https://keyoxide.org/aspe:keyoxide.org:IV6Q45GW4ADLC3PSULPWGYJFOU"
-#    - name: other
+
+#    - name: Key
+#      title: Keyoxide profile containing all my linked identities
+#      url: "https://keyoxide.org/aspe:keyoxide.org:IV6Q45GW4ADLC3PSULPWGYJFOU"
+#    - name: signal
 #      title: Other platforms
 #      url: "sr.se"
 # TEST

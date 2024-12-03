@@ -2,65 +2,74 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://khalid.se/tags/conference/</loc>
+    <loc>http://localhost:1313/posts/2024-07-06_get_inspired/</loc>
+    <lastmod>2024-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cli/</loc>
+    <lastmod>2024-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/inspiration/</loc>
+    <lastmod>2024-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mastodon/</loc>
+    <lastmod>2024-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/conference/</loc>
     <lastmod>2024-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://khalid.se/tags/cybersecurity/</loc>
+    <loc>http://localhost:1313/tags/cybersecurity/</loc>
     <lastmod>2024-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://khalid.se/</loc>
+    <loc>http://localhost:1313/tags/ngo/</loc>
     <lastmod>2024-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://khalid.se/tags/ngo/</loc>
+    <loc>http://localhost:1313/posts/2024-01-24_speaker_engagements/</loc>
     <lastmod>2024-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://khalid.se/posts/</loc>
-    <lastmod>2024-01-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://khalid.se/tags/</loc>
-    <lastmod>2024-01-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://khalid.se/posts/2024-01-24_speaker_engagements/</loc>
-    <lastmod>2024-01-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://khalid.se/tags/personal/</loc>
+    <loc>http://localhost:1313/tags/personal/</loc>
     <lastmod>2023-11-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://khalid.se/posts/2023-11-25_quest_for_knowledge/</loc>
+    <loc>http://localhost:1313/posts/2023-11-25_quest_for_knowledge/</loc>
     <lastmod>2023-11-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://khalid.se/posts/2023-10-15_chako_paul_city/</loc>
+    <loc>http://localhost:1313/posts/2023-10-15_chako_paul_city/</loc>
     <lastmod>2023-10-14T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://khalid.se/tags/disinformation/</loc>
+    <loc>http://localhost:1313/tags/disinformation/</loc>
     <lastmod>2023-10-14T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://khalid.se/tags/fact-checking/</loc>
+    <loc>http://localhost:1313/tags/fact-checking/</loc>
     <lastmod>2023-10-14T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://khalid.se/posts/2023-09-06_honeypot/</loc>
+    <loc>http://localhost:1313/posts/2023-09-06_honeypot/</loc>
     <lastmod>2023-09-07T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://khalid.se/posts/2023-08-03_cybersecurity_for_activists/</loc>
+    <loc>http://localhost:1313/posts/2023-08-03_cybersecurity_for_activists/</loc>
     <lastmod>2023-08-03T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://khalid.se/posts/2023-07-21_hello_hugo/</loc>
+    <loc>http://localhost:1313/posts/2023-07-21_hello_hugo/</loc>
     <lastmod>2023-07-21T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://khalid.se/tags/technology/</loc>
+    <loc>http://localhost:1313/tags/technology/</loc>
     <lastmod>2023-07-21T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://khalid.se/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2023-07-19T19:34:34+02:00</lastmod>
   </url><url>
-    <loc>https://khalid.se/contact/</loc>
-    <lastmod>2023-07-19T19:34:34+02:00</lastmod>
-  </url><url>
-    <loc>https://khalid.se/posts/2023-02-05_weakest_link/</loc>
+    <loc>http://localhost:1313/posts/2023-02-05_weakest_link/</loc>
     <lastmod>2023-02-05T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://khalid.se/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://khalid.se/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
   </url>
 </urlset>

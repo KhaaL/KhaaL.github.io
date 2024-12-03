@@ -2,65 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on khalid.se</title>
-    <link>https://khalid.se/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on khalid.se</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.126.2</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://khalid.se/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Be inspired or be DESTROYED - daily wholesomeness in your terminal</title>
+      <link>http://localhost:1313/posts/2024-07-06_get_inspired/</link>
+      <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024-07-06_get_inspired/</guid>
+      <description>Following this guide, you&amp;rsquo;ll have the latest wholesome mastodon post printed when you open your shell.
+Be inspired or be DESTROYED!
+Prerequisites The following applications must be present on the system and in your $PATH:
+curl jq Fetching statuses from the terminal Since the response from Mastodon is delivered as a JSON-array, having jq installed will help greatly with parsing the content. Mastodon has support for alt-text on images, and the user @skeletor@mas.</description>
+    </item>
     <item>
       <title>Upcoming Speaker Engagements</title>
-      <link>https://khalid.se/posts/2024-01-24_speaker_engagements/</link>
+      <link>http://localhost:1313/posts/2024-01-24_speaker_engagements/</link>
       <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://khalid.se/posts/2024-01-24_speaker_engagements/</guid>
+      <guid>http://localhost:1313/posts/2024-01-24_speaker_engagements/</guid>
       <description>During this year&amp;rsquo;s conference, the Fundraising Forum, I will be delivering a talk on cybersecurity for civil society. With the increasing threat of cyber attacks, it is now more important than ever to prioritize cybersecurity and reduce the risks and vulnerabilities for our organizations, ensuring that human rights work never comes to a halt.
 Feel free to drop by Münchenbryggeriet in Stockholm on March 21-22 to listen or network with others in the sector.</description>
     </item>
     <item>
       <title>The quest for knowledge at mooc.fi</title>
-      <link>https://khalid.se/posts/2023-11-25_quest_for_knowledge/</link>
+      <link>http://localhost:1313/posts/2023-11-25_quest_for_knowledge/</link>
       <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://khalid.se/posts/2023-11-25_quest_for_knowledge/</guid>
+      <guid>http://localhost:1313/posts/2023-11-25_quest_for_knowledge/</guid>
       <description>Since february 2023, I&amp;rsquo;ve been taking courses at mooc.fi which is a free, open-source, self-paced course platform provided by the University of Helsinki in English. The courses I&amp;rsquo;ve been taking are:
 Programming in Python, basic and advanced concepts. Cybersecurity base, covering introduction, securing software and advanced topics. Funnily enough, my goal was to only study Cybersecurity base, but I felt it was neccessary to have a grasp of basic programming which led me to the programming course.</description>
     </item>
     <item>
       <title>Chako paul city and the spread of disinformation</title>
-      <link>https://khalid.se/posts/2023-10-15_chako_paul_city/</link>
+      <link>http://localhost:1313/posts/2023-10-15_chako_paul_city/</link>
       <pubDate>Sat, 14 Oct 2023 00:00:00 +0200</pubDate>
-      <guid>https://khalid.se/posts/2023-10-15_chako_paul_city/</guid>
+      <guid>http://localhost:1313/posts/2023-10-15_chako_paul_city/</guid>
       <description>Do you remember the tale of 25,000 lesbian lumberjacks living together in northern Sweden? Chako Paul City, as the story goes, was guarded with an iron resolve to prevent any men from entering the city. Those daring enough to try were beaten to death, while any woman returning to the city had to undergo a ceremonial wash before reentry.
 This was, of course, utter nonsense.
 This story was fabricated by a journalist from the newspaper Xinhuanet.</description>
     </item>
     <item>
       <title>A few hours of running a honeypot</title>
-      <link>https://khalid.se/posts/2023-09-06_honeypot/</link>
+      <link>http://localhost:1313/posts/2023-09-06_honeypot/</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0200</pubDate>
-      <guid>https://khalid.se/posts/2023-09-06_honeypot/</guid>
+      <guid>http://localhost:1313/posts/2023-09-06_honeypot/</guid>
       <description>I often come across various communities that strongly encourage people to self-host for a variety of reasons: in the interest of data sovereignty, to break free from big tech, or simply because it&amp;rsquo;s &amp;ldquo;FUN&amp;rdquo;. However, I believe that many of these encouragements do not take into account the risks associated with running your infrastructure, nor do they take into account the competence required to correctly configure specific products, systems, applications so that they can provide a secure solution.</description>
     </item>
     <item>
       <title>Cybersecurity basics, 2023 edition</title>
-      <link>https://khalid.se/posts/2023-08-03_cybersecurity_for_activists/</link>
+      <link>http://localhost:1313/posts/2023-08-03_cybersecurity_for_activists/</link>
       <pubDate>Thu, 03 Aug 2023 00:00:00 +0200</pubDate>
-      <guid>https://khalid.se/posts/2023-08-03_cybersecurity_for_activists/</guid>
+      <guid>http://localhost:1313/posts/2023-08-03_cybersecurity_for_activists/</guid>
       <description>Picture from the seminar at Stockholm Pride House.
 Today, I had the pleasure of discussing cybersecurity with 30 enthusiastic attendees at Stockholm Pride House who defied the rain and the risk of getting wet.
 I&amp;rsquo;ve conducted this seminar since 2020. At the height of the pandemy, I noticed a sharp rise in the need for cybersecurity as more and more individuals had to communicate and collaborate digitally due to the pandemic.</description>
     </item>
     <item>
       <title>Hello hugo</title>
-      <link>https://khalid.se/posts/2023-07-21_hello_hugo/</link>
+      <link>http://localhost:1313/posts/2023-07-21_hello_hugo/</link>
       <pubDate>Fri, 21 Jul 2023 00:00:00 +0200</pubDate>
-      <guid>https://khalid.se/posts/2023-07-21_hello_hugo/</guid>
+      <guid>http://localhost:1313/posts/2023-07-21_hello_hugo/</guid>
       <description>This site and blog now uses Hugo and Github pages. When I registered my domain khalid.se, I was aiming to even have it as a itty.bitty site and be truly serverless. However, I wanted to take on the challenge to host the whole infrastructure by my self to get a real feeling of the challenges of setting up a server, from the OS to the actual HTML files. And it was an experience that taught me a lot, everything from how to set up a webserver, security configuration, log monitoring (to a certain extent).</description>
     </item>
     <item>
       <title>Are endusers really the weakest link?</title>
-      <link>https://khalid.se/posts/2023-02-05_weakest_link/</link>
+      <link>http://localhost:1313/posts/2023-02-05_weakest_link/</link>
       <pubDate>Sun, 05 Feb 2023 00:00:00 +0200</pubDate>
-      <guid>https://khalid.se/posts/2023-02-05_weakest_link/</guid>
+      <guid>http://localhost:1313/posts/2023-02-05_weakest_link/</guid>
       <description>I&amp;rsquo;ve recently started a cybersecurity course in university and got very engaged by an assignment where I was to make a list on how to reduce the human factor when dealing with cyber security, and wrote these thoughts.
 I’d like to delve deeper into an idea within cybersecurity professionals that “a chain is only as strong as its weakest link” that often is pointingat the end-users as that weakest link (1).</description>
     </item>

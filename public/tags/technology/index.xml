@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>technology on khalid.se</title>
-    <link>https://khalid.se/tags/technology/</link>
-    <description>Recent content in technology on khalid.se</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Technology on khalid.se</title>
+    <link>http://localhost:1313/tags/technology/</link>
+    <description>Recent content in Technology on khalid.se</description>
+    <generator>Hugo -- 0.126.2</generator>
     <language>en</language>
     <lastBuildDate>Fri, 21 Jul 2023 00:00:00 +0200</lastBuildDate>
-    <atom:link href="https://khalid.se/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello hugo</title>
-      <link>https://khalid.se/posts/2023-07-21_hello_hugo/</link>
+      <link>http://localhost:1313/posts/2023-07-21_hello_hugo/</link>
       <pubDate>Fri, 21 Jul 2023 00:00:00 +0200</pubDate>
-      <guid>https://khalid.se/posts/2023-07-21_hello_hugo/</guid>
+      <guid>http://localhost:1313/posts/2023-07-21_hello_hugo/</guid>
       <description>This site and blog now uses Hugo and Github pages. When I registered my domain khalid.se, I was aiming to even have it as a itty.bitty site and be truly serverless. However, I wanted to take on the challenge to host the whole infrastructure by my self to get a real feeling of the challenges of setting up a server, from the OS to the actual HTML files. And it was an experience that taught me a lot, everything from how to set up a webserver, security configuration, log monitoring (to a certain extent).</description>
     </item>
   </channel>
