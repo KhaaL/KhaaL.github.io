@@ -108,9 +108,9 @@ params:
 
 
 
-caches:
-  images:
-    dir: :cacheDir/images
+#caches:
+#  images:
+#    dir: :cacheDir/images
 
 privacy:
    vimeo:
