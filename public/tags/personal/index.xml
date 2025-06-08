@@ -4,25 +4,24 @@
     <title>Personal on khalid.se</title>
     <link>http://localhost:1313/tags/personal/</link>
     <description>Recent content in Personal on khalid.se</description>
-    <generator>Hugo -- 0.126.2</generator>
+    <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jul 2023 19:34:34 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/personal/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The quest for knowledge at mooc.fi</title>
-      <link>http://localhost:1313/posts/2023-11-25_quest_for_knowledge/</link>
-      <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2023-11-25_quest_for_knowledge/</guid>
-      <description>Since february 2023, I&amp;rsquo;ve been taking courses at mooc.fi which is a free, open-source, self-paced course platform provided by the University of Helsinki in English. The courses I&amp;rsquo;ve been taking are:
-Programming in Python, basic and advanced concepts. Cybersecurity base, covering introduction, securing software and advanced topics. Funnily enough, my goal was to only study Cybersecurity base, but I felt it was neccessary to have a grasp of basic programming which led me to the programming course.</description>
-    </item>
     <item>
       <title>About me</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Wed, 19 Jul 2023 19:34:34 +0200</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>I am an IT and security manager at an international NGO in Sweden, and this is where I publish works of intrest and do some crazy experimentation behind the scenes. As I don&amp;rsquo;t participate in big tech social media, this is where I have my presence. This site is not and will not be monetized.
-Topics that I engage with Health and well-being Sustainable living Digital privacy and sovereignty What I&amp;rsquo;m not doing now As much as I like the idea of having a now page, it&amp;rsquo;s not feasible for me.</description>
+      <description>&lt;p&gt;I am an IT and security manager at an international NGO in Sweden, and this is where I publish works of intrest and do some crazy experimentation behind the scenes. As I don&amp;rsquo;t participate in big tech social media, this is where I have my presence. This site is not and will not be monetized.&lt;/p&gt;
+&lt;h2 id=&#34;topics-that-i-engage-with&#34;&gt;Topics that I engage with&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Health and well-being&lt;/li&gt;
+&lt;li&gt;Sustainable living&lt;/li&gt;
+&lt;li&gt;Digital privacy and sovereignty&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-im-not-doing-now&#34;&gt;What I&amp;rsquo;m &lt;em&gt;not&lt;/em&gt; doing now&lt;/h2&gt;
+&lt;p&gt;As much as I like the idea of having a &lt;a href=&#34;https://nownownow.com/about&#34;&gt;now page&lt;/a&gt;, it&amp;rsquo;s not feasible for me. Instead, I can tell you what I&amp;rsquo;m not doing now:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

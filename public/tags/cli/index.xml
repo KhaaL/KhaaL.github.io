@@ -4,7 +4,7 @@
     <title>CLI on khalid.se</title>
     <link>http://localhost:1313/tags/cli/</link>
     <description>Recent content in CLI on khalid.se</description>
-    <generator>Hugo -- 0.126.2</generator>
+    <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <lastBuildDate>Sat, 06 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/cli/index.xml" rel="self" type="application/rss+xml" />
@@ -13,10 +13,16 @@
       <link>http://localhost:1313/posts/2024-07-06_get_inspired/</link>
       <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/2024-07-06_get_inspired/</guid>
-      <description>Following this guide, you&amp;rsquo;ll have the latest wholesome mastodon post printed when you open your shell.
-Be inspired or be DESTROYED!
-Prerequisites The following applications must be present on the system and in your $PATH:
-curl jq Fetching statuses from the terminal Since the response from Mastodon is delivered as a JSON-array, having jq installed will help greatly with parsing the content. Mastodon has support for alt-text on images, and the user @skeletor@mas.</description>
+      <description>&lt;p&gt;Following this guide, you&amp;rsquo;ll have the latest wholesome mastodon post printed when you open your shell.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Be inspired or be DESTROYED!&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;
+&lt;p&gt;The following applications must be present on the system and in your $PATH:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;curl&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;jq&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;fetching-statuses-from-the-terminal&#34;&gt;Fetching statuses from the terminal&lt;/h2&gt;
+&lt;p&gt;Since the response from Mastodon is delivered as a JSON-array, having &lt;code&gt;jq&lt;/code&gt; installed will help greatly with parsing the content. Mastodon has support for alt-text on images, and the user &lt;code&gt;@skeletor@mas.to&lt;/code&gt; is kind enough to provide that with each posted image which makes it trivial to fetch the latest wholesome inspirational quote, even though the quote is images with text. This is accomplished by the following command:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

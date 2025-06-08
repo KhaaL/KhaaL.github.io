@@ -23,24 +23,6 @@
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-07-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/conference/</loc>
-    <lastmod>2024-01-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/cybersecurity/</loc>
-    <lastmod>2024-01-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/ngo/</loc>
-    <lastmod>2024-01-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/2024-01-24_speaker_engagements/</loc>
-    <lastmod>2024-01-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/personal/</loc>
-    <lastmod>2023-11-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/2023-11-25_quest_for_knowledge/</loc>
-    <lastmod>2023-11-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/2023-10-15_chako_paul_city/</loc>
     <lastmod>2023-10-14T00:00:00+02:00</lastmod>
   </url><url>
@@ -53,16 +35,16 @@
     <loc>http://localhost:1313/posts/2023-09-06_honeypot/</loc>
     <lastmod>2023-09-07T00:00:00+02:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/cybersecurity/</loc>
+    <lastmod>2023-09-07T00:00:00+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/2023-08-03_cybersecurity_for_activists/</loc>
     <lastmod>2023-08-03T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2023-07-21_hello_hugo/</loc>
-    <lastmod>2023-07-21T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/technology/</loc>
-    <lastmod>2023-07-21T00:00:00+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/about/</loc>
+    <lastmod>2023-07-19T19:34:34+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/personal/</loc>
     <lastmod>2023-07-19T19:34:34+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2023-02-05_weakest_link/</loc>

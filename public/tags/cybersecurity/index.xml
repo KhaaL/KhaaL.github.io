@@ -4,41 +4,44 @@
     <title>Cybersecurity on khalid.se</title>
     <link>http://localhost:1313/tags/cybersecurity/</link>
     <description>Recent content in Cybersecurity on khalid.se</description>
-    <generator>Hugo -- 0.126.2</generator>
+    <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Upcoming Speaker Engagements</title>
-      <link>http://localhost:1313/posts/2024-01-24_speaker_engagements/</link>
-      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2024-01-24_speaker_engagements/</guid>
-      <description>During this year&amp;rsquo;s conference, the Fundraising Forum, I will be delivering a talk on cybersecurity for civil society. With the increasing threat of cyber attacks, it is now more important than ever to prioritize cybersecurity and reduce the risks and vulnerabilities for our organizations, ensuring that human rights work never comes to a halt.
-Feel free to drop by Münchenbryggeriet in Stockholm on March 21-22 to listen or network with others in the sector.</description>
-    </item>
     <item>
       <title>A few hours of running a honeypot</title>
       <link>http://localhost:1313/posts/2023-09-06_honeypot/</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0200</pubDate>
       <guid>http://localhost:1313/posts/2023-09-06_honeypot/</guid>
-      <description>I often come across various communities that strongly encourage people to self-host for a variety of reasons: in the interest of data sovereignty, to break free from big tech, or simply because it&amp;rsquo;s &amp;ldquo;FUN&amp;rdquo;. However, I believe that many of these encouragements do not take into account the risks associated with running your infrastructure, nor do they take into account the competence required to correctly configure specific products, systems, applications so that they can provide a secure solution.</description>
+      <description>&lt;p&gt;I often come across various communities that strongly encourage people to self-host for a variety of reasons: in the interest of data sovereignty, to break free from big tech, or simply because it&amp;rsquo;s &lt;a href=&#34;https://dwarffortresswiki.org/DF2014:Fun&amp;amp;redirect=no&#34;&gt;&amp;ldquo;FUN&amp;rdquo;&lt;/a&gt;. However, I believe that many of these encouragements do not take into account the risks associated with running your infrastructure, nor do they take into account the competence required to correctly configure specific products, systems, applications so that they can provide a secure solution. And if you can&amp;rsquo;t accomplish this (or if you run outdated, vulnerable software), you might end up with an entry point in your setup, allowing an outsider to gain access to your server. Moreover, without the ability to respond promptly 24/7, you may not be able to react in a timely manner — assuming you&amp;rsquo;ve even set up some kind of intrusion detection.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cybersecurity basics, 2023 edition</title>
       <link>http://localhost:1313/posts/2023-08-03_cybersecurity_for_activists/</link>
       <pubDate>Thu, 03 Aug 2023 00:00:00 +0200</pubDate>
       <guid>http://localhost:1313/posts/2023-08-03_cybersecurity_for_activists/</guid>
-      <description>Picture from the seminar at Stockholm Pride House.
-Today, I had the pleasure of discussing cybersecurity with 30 enthusiastic attendees at Stockholm Pride House who defied the rain and the risk of getting wet.
-I&amp;rsquo;ve conducted this seminar since 2020. At the height of the pandemy, I noticed a sharp rise in the need for cybersecurity as more and more individuals had to communicate and collaborate digitally due to the pandemic.</description>
+      <description>&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;../../images/2023-08-03_cybersecurity_for_activists.png&#34;
+         alt=&#34;Picture from the seminar at Stockholm Pride House.&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Picture from the seminar at Stockholm Pride House.&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;hr&gt;
+&lt;p&gt;Today, I had the pleasure of discussing cybersecurity with 30 enthusiastic attendees at Stockholm Pride House who defied the rain and the risk of getting wet.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve conducted this seminar since 2020. At the height of the pandemy, I noticed a sharp rise in the need for cybersecurity as more and more individuals had to communicate and collaborate digitally due to the pandemic. These seminars is provided to level the playing field between those advocating for human rights and their antagonists who typically possess far more resources in terms of offensive cyber capabilities.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Are endusers really the weakest link?</title>
       <link>http://localhost:1313/posts/2023-02-05_weakest_link/</link>
       <pubDate>Sun, 05 Feb 2023 00:00:00 +0200</pubDate>
       <guid>http://localhost:1313/posts/2023-02-05_weakest_link/</guid>
-      <description>I&amp;rsquo;ve recently started a cybersecurity course in university and got very engaged by an assignment where I was to make a list on how to reduce the human factor when dealing with cyber security, and wrote these thoughts.
-I’d like to delve deeper into an idea within cybersecurity professionals that “a chain is only as strong as its weakest link” that often is pointingat the end-users as that weakest link (1).</description>
+      <description>&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;I&amp;rsquo;ve recently started a cybersecurity course in university and got very engaged by an assignment where I was to make a list on how to reduce the human factor when dealing with cyber security, and wrote these thoughts.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;I’d like to delve deeper into an idea within cybersecurity professionals that “a chain is only as strong as its weakest link” that often is pointingat  the end-users as that weakest link (1). After the article “In Defence of the Human Factor“ (2), and following the latest discourse in the cybersec community, I&amp;rsquo;d like to challenge the idea of end-users being the weakest link.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
