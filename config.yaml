@@ -108,6 +108,10 @@ params:
 
 
 
+caches:
+  images:
+    dir: :cacheDir/images
+
 privacy:
    vimeo:
      disabled: true
@@ -115,7 +119,6 @@ privacy:
 
    twitter:
      disabled: true
-     enableDNT: true
      simple: true
 
    instagram:
