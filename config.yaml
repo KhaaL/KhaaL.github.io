@@ -1,7 +1,7 @@
 baseURL: https://khalid.se
 languageCode: en-us
 Title: khalid.se
-paginate: 5
+# paginate: 5
 theme: [PaperMod]
 
 
