@@ -8,7 +8,7 @@ tags:
   - Inspiration
 ---
 
-Following this guide, you'll have the latest wholesome mastodon post printed when you open your shell.
+Following this guide, you'll have the latest [Inspirational Skeletor💀](https://mas.to/@skeletor) post in your terminal when you open your shell.
 
 **Be inspired or be DESTROYED!**
 
