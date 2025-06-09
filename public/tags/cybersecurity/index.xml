@@ -4,7 +4,7 @@
     <title>Cybersecurity on khalid.se</title>
     <link>http://localhost:1313/tags/cybersecurity/</link>
     <description>Recent content in Cybersecurity on khalid.se</description>
-    <generator>Hugo -- 0.142.0</generator>
+    <generator>Hugo -- 0.147.8</generator>
     <language>en</language>
     <lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
@@ -38,8 +38,7 @@
       <guid>http://localhost:1313/posts/2023-02-05_weakest_link/</guid>
       <description>&lt;hr&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;I&amp;rsquo;ve recently started a cybersecurity course in university and got very engaged by an assignment where I was to make a list on how to reduce the human factor when dealing with cyber security, and wrote these thoughts.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;&lt;em&gt;I&amp;rsquo;ve recently started a cybersecurity course in university and got very engaged by an assignment where I was to make a list on how to reduce the human factor when dealing with cyber security, and wrote these thoughts.&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;hr&gt;
 &lt;p&gt;I’d like to delve deeper into an idea within cybersecurity professionals that “a chain is only as strong as its weakest link” that often is pointingat  the end-users as that weakest link (1). After the article “In Defence of the Human Factor“ (2), and following the latest discourse in the cybersec community, I&amp;rsquo;d like to challenge the idea of end-users being the weakest link.&lt;/p&gt;</description>
     </item>
